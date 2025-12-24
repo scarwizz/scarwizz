@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Arpit Singh! 👋
 
-<!--
-**scarwizz/scarwizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech in Mathematics and Scientific Computing
+**ABV-IIITM, Gwalior (2023 - 2027)** 📍 *Based in Varanasi/Gwalior, India*
 
-Here are some ideas to get you started:
+I am an undergraduate researcher passionate about the intersection of **Artificial Intelligence and Scientific Discovery**. My work focuses on leveraging mathematical frameworks (Fuzzy Logic, PINNs, Differential Equations) to build robust, trustworthy, and physically consistent AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+* **Languages:** Python, C++, SQL, LaTeX
+* **ML/DL:** PyTorch, TensorFlow, LightGBM, CatBoost, Scikit-learn
+* **Domains:** Recommender Systems, Physics-Informed ML, Time-Series Analysis, Fuzzy Logic
+
+
+
+
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
